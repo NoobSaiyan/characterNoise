@@ -1,1 +1,3 @@
 # characterNoise
+
+![Screenshot](screenshot.png)
